@@ -14,5 +14,6 @@
 <p>- git add: Este comando agrega los archivos que has modificado o creado al área de preparación (staging area) de Git. Es como decir a Git que estos archivos están listos para ser guardados en el historial.</p>
 <p>-git commit: Este comando guarda los cambios que has hecho en el área de preparación en el historial de tu repositorio local. Es como tomar una foto de tu proyecto en un momento específico.</p>
 <p>- git push: Este comando envía los cambios que has hecho en tu repositorio local al repositorio remoto. Es como compartir tus cambios con el mundo.</p>
-
+<p>- git diff: Este comando te muestra las diferencias entre el estado actual de un archivo y la última versión que fue guardada en el repositorio. Es como una herramienta para ver qué cambios se han hecho en un archivo.</p>
+<p>- git restore: Este comando te permite restaurar un archivo a una versión anterior. Es como una máquina del tiempo para tu código, te permite volver a un punto específico en el historial de tu proyecto.</p>
 
