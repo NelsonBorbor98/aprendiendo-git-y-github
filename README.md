@@ -19,3 +19,5 @@
 <p>- git branch: Este comando nos muestra las ramas que tenemos en nuestro proyecto.</p>
 <p>- git checkout b: Este comando crea una nueva rama y nos cambia a ella.</p>
 <p>- git switch: Este comando nos cambia a una rama existente.</p>
+<p>- git merge: Este comando es como un "fusionador" de ramas. Permite combinar los cambios de una rama con otra.</p>
+<p>- git push origin main: Este comando es para enviar los cambios de tu rama local a la rama main en tu repositorio remoto en GitHub.</p>
