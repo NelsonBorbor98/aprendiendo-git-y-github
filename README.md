@@ -16,4 +16,6 @@
 <p>- git push: Este comando envía los cambios que has hecho en tu repositorio local al repositorio remoto. Es como compartir tus cambios con el mundo.</p>
 <p>- git diff: Este comando te muestra las diferencias entre el estado actual de un archivo y la última versión que fue guardada en el repositorio. Es como una herramienta para ver qué cambios se han hecho en un archivo.</p>
 <p>- git restore: Este comando te permite restaurar un archivo a una versión anterior. Es como una máquina del tiempo para tu código, te permite volver a un punto específico en el historial de tu proyecto.</p>
-
+<p>- git branch: Este comando nos muestra las ramas que tenemos en nuestro proyecto.</p>
+<p>- git checkout b: Este comando crea una nueva rama y nos cambia a ella.</p>
+<p>- git switch: Este comando nos cambia a una rama existente.</p>
